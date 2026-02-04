@@ -1,5 +1,5 @@
 # 💫 About Me:
-💻Data Science and Economics majors<br>🐍Building projects with Python, R, and SQL<br>🎧Tech, fitness, gaming, and good music<br>🏉Rugby player who thrives in fast-paced environments.
+💻Data Science and Economics majors, minor in Artificial Intelligence <br>🐍Building projects with Python, R, and SQL<br>🎧Tech, fitness, gaming, and good music<br>🏉Rugby player who thrives in fast-paced environments.
 
 
 ## 🌐 Socials:
